@@ -17,6 +17,4 @@ public class CoursePreviewDto {
  //课程计划信息
  private List<TeachplanDto> teachplans;
 
- //课程师资信息...
-
 }
